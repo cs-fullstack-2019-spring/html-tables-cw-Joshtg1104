@@ -1,0 +1,19 @@
+body{
+
+}
+
+table{
+    border: black solid 2px;
+}
+
+th,td{
+    border: black solid 2px;
+    width: 150px;
+    padding: 5px 5px;
+
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
